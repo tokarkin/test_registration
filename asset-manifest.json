@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/test_registration/static/css/main.7092d03f.chunk.css",
+    "main.js": "/test_registration/static/js/main.322a8220.chunk.js",
+    "main.js.map": "/test_registration/static/js/main.322a8220.chunk.js.map",
+    "runtime-main.js": "/test_registration/static/js/runtime-main.f5469fce.js",
+    "runtime-main.js.map": "/test_registration/static/js/runtime-main.f5469fce.js.map",
+    "static/js/2.19f9af89.chunk.js": "/test_registration/static/js/2.19f9af89.chunk.js",
+    "static/js/2.19f9af89.chunk.js.map": "/test_registration/static/js/2.19f9af89.chunk.js.map",
+    "index.html": "/test_registration/index.html",
+    "precache-manifest.c8b25b68054c103074d2ab185773f556.js": "/test_registration/precache-manifest.c8b25b68054c103074d2ab185773f556.js",
+    "service-worker.js": "/test_registration/service-worker.js",
+    "static/css/main.7092d03f.chunk.css.map": "/test_registration/static/css/main.7092d03f.chunk.css.map",
+    "static/js/2.19f9af89.chunk.js.LICENSE": "/test_registration/static/js/2.19f9af89.chunk.js.LICENSE",
+    "static/media/style.scss": "/test_registration/static/media/man-laptop-v1.91a48306.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5469fce.js",
+    "static/js/2.19f9af89.chunk.js",
+    "static/css/main.7092d03f.chunk.css",
+    "static/js/main.322a8220.chunk.js"
+  ]
+}
